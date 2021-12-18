@@ -10,4 +10,14 @@
 
 <h4 align="center">I am currently pursuing BE / B.Tech in Information and Communication Technology (ICT).T am currently learning everything 🤣. Enthusiasm and motivation are some of the ingredients of my everyday coffee so buckle up, it's going to be a fun ride.</h4>
 <br>
+<hr/>
 
+### Connect with me:
+
+
+<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<br />
