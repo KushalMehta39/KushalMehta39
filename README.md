@@ -1,6 +1,7 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Kushal;+An+Open+Source+Enthusiast+☀;Frontend+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 <br>
+<br>
 <hr/>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o85xsz5nqVjzphbZC/giphy.gif" width="250" height="250" />
