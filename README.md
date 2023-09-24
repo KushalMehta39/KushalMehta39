@@ -11,7 +11,7 @@
 <p align="center">
   
 
-<h4 align="center">I am currently pursuing BE / B.Tech in Information and Communication Technology (ICT).T am currently learning everything. Robotics Enthusiasm and motivation are some of the ingredients of my everyday coffee so buckle up, it's going to be a fun ride.</h4>
+<h4 align="center">I am currently pursuing BE / B.Tech in Information and Communication Technology (ICT). Robotics Enthusiasm and motivation are some of the ingredients of my everyday coffee so buckle up, it's going to be a fun ride.</h4>
 <br>
 <hr/>
 
