@@ -3,7 +3,6 @@
 <br>
 
 <hr/>
-<hr/>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o85xsz5nqVjzphbZC/giphy.gif" width="250" height="250" />
 
